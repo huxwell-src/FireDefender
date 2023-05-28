@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div className='h-screen bg-[#FDFDFD]'>
-      <Header name="Joao" />
+      <Header name="Salo" />
 
       <div className='p-4' > 
         <span className="text-sm text-[#666666]">hoy, {formattedDate}</span>
