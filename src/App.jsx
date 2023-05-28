@@ -9,6 +9,8 @@ function App() {
   const formattedDate = currentDate.toLocaleDateString('es-ES', options);
 
 
+  const temp = "16°";
+
   return (
     <div className='h-screen bg-[#FDFDFD]'>
       <Header name="Salo" />
@@ -18,7 +20,7 @@ function App() {
         <WeatherCard
           weatherDescription="Soleado"
           location="Santiago, Chile"
-          temperature={28}
+          temperature={temp}
           feelsLike={31}
           humidity={27}
           hasGas={false}
