@@ -9,11 +9,11 @@ function App() {
   const formattedDate = currentDate.toLocaleDateString('es-ES', options);
 
 
-  const temp = "16°";
+  const temp = "16";
 
   return (
     <div className='h-screen bg-[#FDFDFD]'>
-      <Header name="Salo" />
+      <Header/>
 
       <div className='p-4' > 
         <span className="text-sm text-[#666666]">hoy, {formattedDate}</span>
