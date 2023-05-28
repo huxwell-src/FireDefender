@@ -1,6 +1,7 @@
 import { } from 'react';
 import Header from './components/Header';
 import WeatherCard from './components/WeatherCard';
+import './App.css'
 
 function App() {
   
@@ -12,7 +13,7 @@ function App() {
   const temp = "16";
 
   return (
-    <div className='h-screen bg-[#FDFDFD]'>
+    <div className='fondo bg-[#FDFDFD]'>
       <Header/>
 
       <div className='p-4' > 
