@@ -1,6 +1,6 @@
 # FireDefender
 # Proyecto de React con Vite y Tailwind CSS ✨
-Este proyecto es un inicio rápido para crear una aplicación web utilizando React, Vite y Tailwind CSS.
+Este proyecto es un inicio rápido para configurar la app de firedefendee.
 ## Configuración inicial ⚙️
 Sigue los pasos a continuación para configurar y ejecutar el proyecto en tu máquina local.
 ### Prerrequisitos 📋
